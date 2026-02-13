@@ -6,7 +6,7 @@ and manage the processing of them to produce the reliable, resourceful and compr
 or varous other pharma deliveries.
 
 Python in Bioinformatics course is part of this field where it helps anyone from biology or computer science background to understand the
-basic concepts of Python programming language while also delving into the world of bioinfrmatics. This creates the coordination of technology
+basic concepts of Python programming language while also delving into the world of bioinformatics. This creates the coordination of technology
 with biological critical thinking to utilize our comprehensive skills throughout the learning from the beginning till the end of this course.
 
 My programs are depicted in such a way that gives you an idea of how a bioinformatician would operate.
