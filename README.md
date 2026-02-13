@@ -5,7 +5,7 @@ different variations and biotechnology integrated with data science, machine lea
 and manage the processing of them to produce the reliable, resourceful and comprehensible insights for the research, company business requirements
 or varous other pharma deliveries.
 
-This Python in Bioinformatics course is part of this field where it helps anyone from biology or computer science background to understand the
+Python in Bioinformatics course is part of this field where it helps anyone from biology or computer science background to understand the
 basic concepts of Python programming language while also delving into the world of bioinfrmatics. This creates the coordination of technology
 with biological critical thinking to utilize our comprehensive skills throughout the learning from the beginning till the end of this course.
 
