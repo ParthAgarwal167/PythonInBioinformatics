@@ -2,7 +2,7 @@
 
 Bioinformatics is a vast field of biological computation, molecular aspects, genome based experiments, functional annotations of
 different variations and biotechnology integrated with data science, machine learning in Python to curate the authentic biological data
-and manage the processing of them to produce the reliable, resourceful and omprehensible insights for the research, company business requirements
+and manage the processing of them to produce the reliable, resourceful and comprehensible insights for the research, company business requirements
 or varous other pharma deliveries.
 
 This Python in Bioinformatics course is part of this field where it helps anyone from biology or computer science background to understand the
